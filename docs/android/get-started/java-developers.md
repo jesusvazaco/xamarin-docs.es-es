@@ -72,7 +72,7 @@ Por supuesto, hay muchas más diferencias entre C# y Java que pueden tratarse en
 
 C# proporciona muchas características claves de Xamarin.Android que actualmente no están disponibles para los desarrolladores de Java en Android. Estas características pueden ayudarle a escribir código mejor y en menos tiempo:
 
--   [Propiedades](#properties) &ndash; Con el sistema de propiedades de C#, puede acceder a las variables de miembros de forma segura y directa sin tener que escribir métodos de establecedor y captador.
+-   [Propiedades](#properties) &ndash; Con el sistema de propiedades de C#, puede acceder a las variables de miembros de forma segura y directa sin tener que escribir métodos de establecedor (setter) y captador (getter).
 
 -   [Expresiones lambda](#lambdas) &ndash; En C# también puede usar métodos anónimos (también denominados *lambdas*) para expresar la funcionalidad de forma más sucinta y eficaz. Puede evitar la sobrecarga de tener que escribir objetos de un solo uso, y puede pasar el estado local a un método sin tener que agregar parámetros.
 
